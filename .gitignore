@@ -213,6 +213,19 @@ tempCodeRunnerFile.py
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+# Dataset
+dataset/
 
+# Trained models
+models/
+*.joblib
+*.pkl
+
+# Audio recordings
+recordings/
+*.wav
+
+# VS Code
+.vscode/
 # Streamlit
 .streamlit/secrets.toml
