@@ -502,6 +502,22 @@ HTML = """<!DOCTYPE html>
     }, RECORD_MS);
   }
 </script>
+<footer class="footer">
+    <div class="footer-container">
+
+        <h3>🎤 Voice Recognition System</h3>
+        <p>Real-Time Voice Command Recognition using AI & Machine Learning</p>
+
+        <p class="copyright">
+            © 2026 Voice Recognition System. All Rights Reserved.
+        </p>
+
+        <p class="credit">
+            Developed by <b>UDAY C K </b>
+        </p>
+
+    </div>
+</footer>
 </body>
 </html>"""
 
